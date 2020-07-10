@@ -76,7 +76,7 @@
       width: 25%;
     }
     .col-lg-4 {
-      width: 29.33%;
+      width: 30.33%;
     }
     #s1{
       margin-left: 3%;
@@ -199,7 +199,7 @@
     .col-sm-12 {
       width: 100%;
     }
-    #s2{
-      margin-left: 27px;
+    #s2.col-sm-12{
+      margin-left: 10px;
     }
   }
